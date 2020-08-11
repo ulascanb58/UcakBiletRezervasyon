@@ -1,0 +1,20 @@
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.exe.config
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.Form1.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.Properties.Resources.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csproj.GenerateResource.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csproj.CoreCompileInputs.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\UçakBiletRezervasyon\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csprojAssemblyReference.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.exe.config
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\bin\Debug\AirplaneTicket.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csprojAssemblyReference.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.Form1.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.Properties.Resources.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csproj.GenerateResource.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.csproj.CoreCompileInputs.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\Yeni klasör\AirplaneTicket\AirplaneTicket\obj\Debug\AirplaneTicket.pdb
